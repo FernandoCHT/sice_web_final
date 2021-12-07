@@ -1,0 +1,40 @@
+{
+  "short_name": "SICE AWP",
+  "name": "SICE AWP",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "32x32",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "icon_64.png",
+      "type": "image/png",
+      "sizes": "64x64"
+    },
+    {
+      "src": "icon_100.png",
+      "type": "image/png",
+      "sizes": "100x100"
+    },
+    {
+      "src": "icon_128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
